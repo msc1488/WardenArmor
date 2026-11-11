@@ -1,0 +1,11 @@
+name: WardenArmorPlugin
+version: 1.0.0
+main: com.example.wardenarmor.WardenArmorPlugin
+api-version: '1.21'
+author: Depervs
+description: Броня Вардена с Sonic Boom по нажатию F
+
+commands:
+  givewardenarmor:
+    description: Выдать броню Вардена
+    usage: /givewardenarmor [игрок]
